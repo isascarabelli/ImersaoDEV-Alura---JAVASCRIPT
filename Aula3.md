@@ -2,7 +2,11 @@
 
 link codePen = https://codepen.io/isascarabelli/pen/LYeEBRK1;
 
-Math.random() e condicionais;
+Conteúdo da aula:
+* Realizar o fork do projeto com template inicial;
+* Fazer testes utilizando console.log();
+* Criar a lógica por trás do "chute" com if, else if e else;
+* Utilizar a função Math.random() do JavaScript para gerar números aleatórios;
 
 Desafios da aula:
 
