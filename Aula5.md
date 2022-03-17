@@ -1,4 +1,4 @@
-# Aula 1 - variáveis, operações e média
+# Aula 5 - Funções no AluraFlix
 
 link codePen = https://codepen.io/isascarabelli/pen/NWXGMRX?editors=0010
 
