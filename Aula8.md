@@ -9,6 +9,7 @@ Conteúdo da aula:
 * Escrever o resultado na tela após o duelo das cartas informando se o jogador venceu ou perdeu;
 * Criar uma função que exibe a carta da máquina;
 * Exibir os atributos e pontos da carta da máquina.
+
 Desafios da aula:
 
 * Criar de fato um baralho, com várias outras cartas
