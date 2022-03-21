@@ -1,4 +1,4 @@
-# Aula 6 - Objetos e tabelas de classificação
+# Aula 8 - SuperTrunfo - Lógica do jogo
 link codePen = https://codepen.io/isascarabelli/pen/ZEvQxyK
 
 Conteúdo da aula:
